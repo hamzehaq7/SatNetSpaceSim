@@ -11,7 +11,7 @@ To install the relevant libraries, you can run in your terminal:
 ```
 
 ## Usage
-* <kbd style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">graph_code.py</kbd> contains the code used to plot the figures found in the paper
+* <kbd style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">paper_graphs.py</kbd> contains the code used to plot the figures found in the paper
 * <kbd style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">SpaceSimulator.py</kbd> contains a code that performs the Link Budget Analysis calculation based on parameters you input. 
 
 ## Citation

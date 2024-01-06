@@ -1,7 +1,7 @@
 # SatNet SpaceSim
 This repository is linked to our conference paper titled "SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations"
 
-Paper link: 
+Paper link: [to be added]
 
 ## Setup
 To install the relevant libraries, you can run in your terminal:
